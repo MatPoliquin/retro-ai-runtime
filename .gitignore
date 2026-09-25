@@ -1,0 +1,32 @@
+# Dependencies and build output
+/libtorch/
+/build/
+/build-*/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+Testing/
+/Makefile
+/test
+/runtime_test
+/Debug/
+/Release/
+/win/
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+*.zip
+
+# Local editor configuration
+.vscode/
+.idea/
